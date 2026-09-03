@@ -3,4 +3,3 @@ public class EmailDemo {
         System.out.println(" I am full stack java developer. I am happy. I am healthy. I am glowing.");
     }
 }
-
